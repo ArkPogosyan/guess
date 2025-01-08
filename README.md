@@ -1,1 +1,2 @@
 # guess
+A natural number n is fed to the input. The program guesses a number in the range from 1 to n and finds the smallest number of attempts that are guaranteed to be enough to guess the guessed number.
